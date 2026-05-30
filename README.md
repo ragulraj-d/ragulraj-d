@@ -71,8 +71,8 @@ I teach and build across cybersecurity, backend, mobile, and applied AI. By day 
 ## 🌐 Connect with me
 
 - 🌍 Portfolio: [ragulrajportfolio.web.app](https://ragulrajportfolio.web.app)
-- 💼 LinkedIn: `<add your LinkedIn URL here>`
-- 📫 Reach me: `<add your preferred contact / email here>`
+- 💼 LinkedIn: [`<add your LinkedIn URL here>`](https://www.linkedin.com/in/ragulraj-d/)
+- 📫 Reach me: +91-834 43 75441 / ragulrajdhamodharan@gmail.com
 
 ---
 
