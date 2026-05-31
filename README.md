@@ -1,117 +1,148 @@
 <div align="center">
 
-<!-- macOS-style light header, Apple-blue gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0071E3,50:2997FF,100:5AC8FA&height=200&section=header&text=Ragulraj%20Dhamodharan&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Technical%20Instructor%20%C2%B7%20Freelance%20Developer%20%C2%B7%20Vibe%20Coder&descSize=18&descAlignY=58" />
+<img width="100%" src="./banner.svg" alt="Ragulraj Dhamodharan — Technical Instructor & Developer" />
 
-<!-- Typing effect in Inter (SF Pro substitute), Apple blue -->
-<a href="https://ragulrajportfolio.web.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=0071E3&center=true&vCenter=true&width=650&lines=Technical+Instructor;Freelance+Developer;Cybersecurity+Educator;AI+Automation+Builder;I+teach+what+I+build%2C+%26+build+what+I+teach" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2800&pause=900&color=FF6B35&center=true&vCenter=true&width=700&lines=Technical+Instructor;Freelance+Developer;Cybersecurity+Educator;AI+Automation+Builder;Google+Certified+Educator;Vibe+Coder" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-<!-- Prominent portfolio button -->
-<a href="https://ragulrajportfolio.web.app">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Visit%20My%20Portfolio-0071E3?style=for-the-badge&logoColor=white" alt="Portfolio" />
-</a>
+<a href="https://ragulrajportfolio.web.app"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-FF6B35?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ragulraj-d/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/ragulraj-d"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:ragulrajdhamodharan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
 ---
 
-## 🚀 What I do
+### `About.md`
 
-- 🛡️ **Cybersecurity & SOC** — teaching and hands-on security operations, threat detection, and network defense
-- 🧑‍🏫 **Technical training** — 10,000+ students trained across multiple institutions (SRM, AVIT, Intel Unnati, and more), 4.4/5 average feedback
-- 💻 **Full-stack development** — backend APIs, mobile apps, and automation, including freelance work under the **Shivoraa** brand
-- 🤖 **Applied AI** — building with OpenAI & Gemini APIs and the modern ML stack
+> **Hello, World! 👋**
+
+I'm **Ragulraj Dhamodharan**, a **Technical Instructor** and **Freelance Developer** based in **Chennai, India**, with a **B.E. in Computer Science & Engineering** from M. Kumarasamy College of Engineering.
+
+I've trained **10,000+ students and professionals** across premier institutions and programs, holding a **4.4/5** feedback rating. Under my freelance studio **[Shivoraa](https://shivoraa.in)**, I apply *vibe coding* — an AI-assisted development workflow — to ship web apps, mobile apps, and AI automation tools faster.
+
+`📍 Chennai, Tamil Nadu` &nbsp;·&nbsp; `🎓 B.E. CSE` &nbsp;·&nbsp; `🧑‍🏫 Instructor · Developer · AI Consultant`
 
 ---
 
-## 🛠️ Projects
+### `Certifications.verified`
 
-> Everything below is live — pulled from [ragulrajportfolio.web.app](https://ragulrajportfolio.web.app)
+<table>
+<tr>
+<td align="center" width="160">
+<img src="https://ragulrajportfolio.web.app/logos/google-edu.svg" height="48" alt="Google"/><br/>
+<sub><b>Google Certified<br/>Educator L1</b></sub>
+</td>
+<td align="center" width="160">
+<img src="https://ragulrajportfolio.web.app/logos/microsoft-sc200.svg" height="48" alt="Microsoft"/><br/>
+<sub><b>Microsoft SC-200<br/>Security Analyst</b></sub>
+</td>
+<td align="center" width="160">
+<img src="https://ragulrajportfolio.web.app/logos/ccep.svg" height="48" alt="CCEP"/><br/>
+<sub><b>CCEP Cybersecurity<br/>Educator</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="160">
+<img src="https://ragulrajportfolio.web.app/logos/palo-alto.svg" height="48" alt="Palo Alto"/><br/>
+<sub><b>Palo Alto —<br/>Cloud Security</b></sub>
+</td>
+<td align="center" width="160">
+<img src="https://ragulrajportfolio.web.app/logos/palo-alto.svg" height="48" alt="Palo Alto"/><br/>
+<sub><b>Palo Alto —<br/>Network Security</b></sub>
+</td>
+<td align="center" width="160">
+<img src="https://ragulrajportfolio.web.app/logos/palo-alto.svg" height="48" alt="Palo Alto"/><br/>
+<sub><b>Palo Alto — Intro<br/>to Cybersecurity</b></sub>
+</td>
+</tr>
+</table>
+
+---
+
+### `Skills.config`
+
+🛡️ &nbsp;**Cybersecurity & SOC** — Microsoft Sentinel · SIEM · MITRE ATT&CK · Incident Response · KQL · DevSecOps · IAM
+
+🌐 &nbsp;**Networking** — TCP/IP · OSI Model · Subnetting · VLANs · DNS/DHCP · Cisco Packet Tracer · Wireshark
+
+💻 &nbsp;**Programming** — Python · Java · Flutter/Dart · HTML · CSS · JavaScript
+
+📱 &nbsp;**Web & Mobile** — Flask · FastAPI · Spring Boot · Flutter · REST APIs · Postman
+
+🤖 &nbsp;**AI & Automation** — OpenAI API · Gemini API · Prompt Engineering · N8n · LangChain · Vibe Coding
+
+🧠 &nbsp;**ML & Data Science** — TensorFlow · PyTorch · Scikit-learn · NumPy · Pandas
+
+⚙️ &nbsp;**DevOps & Tools** — GitHub · GitLab · CI/CD · Docker · Linux CLI · Windows Server
+
+🖥️ &nbsp;**Operating Systems** — Windows · macOS · Ubuntu · Kali · Parrot OS · Pop!_OS · Arc Linux
+
+🎓 &nbsp;**Training & Education** — Curriculum Design · Corporate Training · Instructional Design · Lab Development
+
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=py,java,flutter,dart,html,css,js,flask,fastapi,spring,firebase,tensorflow,pytorch,sklearn,docker,linux,git,github,gitlab,kali,postman,vscode&perline=11)](https://ragulrajportfolio.web.app/skills/)
+
+</div>
+
+---
+
+### `Projects.md`
+
+> All **13** live projects — [ragulrajportfolio.web.app/projects](https://ragulrajportfolio.web.app/projects/)
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🌐 **[SHIVORAA Web](https://shivoraa.in)** | Company portfolio for Shivoraa — zero-dependency, premium Indian-themed design | HTML · CSS · JS · Firebase |
-| 📱 **[Bloom Dealer App](https://flower-dealer-app.web.app)** | Order, inventory & CRM platform for flower dealers with real-time Firestore sync | Flutter · Dart · Firebase |
-| 🌐 **[My Portfolio](https://ragulrajportfolio.web.app)** | Personal developer portfolio with a macOS-themed design | HTML · CSS · JS · Firebase |
-| 📱 **[My Buddy](https://mybuddy-web.web.app)** | Companion app for birthdays, quick notes & tasks with cross-device sync | Flutter · Dart · Firebase |
-| 📊 **[RAGNET](https://ragnet-app.web.app)** | Real-time visitor analytics — IP, country, device, OS & browser tracking | JS · Firebase · Analytics |
-| 🎖️ **[Mera Buddy](https://merabuddy-app.web.app)** | Discipline-first app for defence aspirants with OLQ assessments & habit tracking | Flutter · Dart · Firebase |
-| 🎖️ **[Defence Prep Portal](https://defenceprep-portal.web.app/)** | Study portal for Indian defence exams (AFCAT, CAPF AC, SSB) with a 12-week plan | HTML · CSS · JS · Firebase |
-| 🌐 **[DGS Portfolio](https://dgsportfolio.web.app/)** | Pro portfolio for a naval veteran & cybersecurity coach | HTML · CSS · JS · Firebase |
-| 🏗️ **[NovArch UAE](http://novarchuae.com/)** | Marketing site for a UAE interior design & fit-out company | HTML · CSS · JS |
-| 🔄 **[Syncoraa](https://syncoraa.web.app/)** | Peer-to-peer file transfer over WebRTC with room codes & TURN fallback | JS · WebRTC · Firebase |
-| 🖥️ **[AllCodeIn](https://allcodein.web.app/)** | Browser-based cloud IDE — write, run & preview code with live output | JS · HTML · CSS · Firebase |
-| 🔗 **[Disciplink](https://disciplink-app.web.app/)** | Discipline & productivity app for structured routines and habit tracking | Flutter · Dart · Firebase |
+| ⚖️ **[BharatNeedhi](http://bharatneedhi.web.app/)** | AI-powered chat for Indian citizens to understand legal rights, laws & procedures | ![](https://skillicons.dev/icons?i=flutter,dart,firebase) |
+| 🌐 **[SHIVORAA Web](https://shivoraa.in)** | Company portfolio — zero-dependency, premium Indian-themed design | ![](https://skillicons.dev/icons?i=html,css,js,firebase) |
+| 📱 **[Bloom Dealer App](https://flower-dealer-app.web.app)** | Order, inventory & CRM platform for flower dealers, real-time sync | ![](https://skillicons.dev/icons?i=flutter,dart,firebase) |
+| 🎖️ **[Mera Buddy](https://merabuddy-app.web.app)** | Discipline app for defence aspirants with OLQ assessments & habit tracking | ![](https://skillicons.dev/icons?i=flutter,dart,firebase) |
+| 🎖️ **[Defence Prep Portal](https://defenceprep-portal.web.app/)** | Study portal for AFCAT, CAPF AC & SSB with a 12-week plan & 50+ questions | ![](https://skillicons.dev/icons?i=html,css,js,firebase) |
+| 📊 **[RAGNET](https://ragnet-app.web.app)** | Real-time visitor analytics — IP, geo, device & browser tracking | ![](https://skillicons.dev/icons?i=js,firebase) |
+| 🔄 **[Syncoraa](https://syncoraa.web.app/)** | P2P file transfer over WebRTC with room codes & TURN relay fallback | ![](https://skillicons.dev/icons?i=js,firebase) |
+| 🖥️ **[AllCodeIn](https://allcodein.web.app/)** | Browser-based cloud IDE — write, run & preview code live | ![](https://skillicons.dev/icons?i=js,html,css,firebase) |
+| 📱 **[My Buddy](https://mybuddy-web.web.app)** | Companion app for birthdays, notes & tasks with cross-device sync | ![](https://skillicons.dev/icons?i=flutter,dart,firebase) |
+| 🔗 **[Disciplink](https://disciplink-app.web.app/)** | Discipline & productivity app for structured routines and habit tracking | ![](https://skillicons.dev/icons?i=flutter,dart,firebase) |
+| 🏗️ **[NovArch UAE](http://novarchuae.com/)** | Marketing site for a UAE interior design & fit-out firm | ![](https://skillicons.dev/icons?i=html,css,js) |
+| 🌐 **[DGS Portfolio](https://dgsportfolio.web.app/)** | Portfolio for a naval veteran & cybersecurity coach | ![](https://skillicons.dev/icons?i=html,css,js,firebase) |
+| 🌐 **[My Portfolio](https://ragulrajportfolio.web.app)** | This macOS-themed developer portfolio | ![](https://skillicons.dev/icons?i=html,css,js,firebase) |
 
 ---
 
-## 📜 Certifications
+### `Experience.log`
 
-<div align="center">
+**🧑‍🏫 Technical Instructor** &nbsp;·&nbsp; *Edulateral / Intel Unnati / NSE Academy / Bajaj Finserv* &nbsp;·&nbsp; `2023 — Present`
 
-<img src="https://img.shields.io/badge/Google%20Certified%20Educator-0071E3?style=flat-square&logo=google&logoColor=white" alt="Google Certified Educator" />
-<img src="https://img.shields.io/badge/Microsoft%20SC--200-0071E3?style=flat-square&logo=microsoft&logoColor=white" alt="SC-200" />
-<img src="https://img.shields.io/badge/Palo%20Alto%20Networks-0071E3?style=flat-square&logo=paloaltonetworks&logoColor=white" alt="Palo Alto" />
-<img src="https://img.shields.io/badge/CCEP%20Certified%20Educator-0071E3?style=flat-square&logoColor=white" alt="CCEP" />
-
-</div>
+Trained 10,000+ learners across SRM, Joy University & AVIT in Machine Learning, Cybersecurity (SOC · SIEM · MITRE ATT&CK · KQL), Advanced Python, and CCNA-aligned Networking. Maintained a 4.4/5 feedback rating.
 
 ---
 
-## 🧰 Tech Stack
+**💻 Freelance Web & Mobile Developer** &nbsp;·&nbsp; *Shivoraa · Chennai (Remote)* &nbsp;·&nbsp; `2023 — Present`
+
+Full-stack apps (Flask · FastAPI), cross-platform mobile (Flutter), and production AI automation (OpenAI · Gemini · N8n) — shipped via CI/CD using the vibe-coding methodology.
+
+---
+
+**📱 Mobile Application Backend Developer** &nbsp;·&nbsp; *Tata Consultancy Services* &nbsp;·&nbsp; `Jun 2024 — Oct 2025`
+
+Built scalable Spring Boot REST APIs for high-traffic enterprise mobile apps. Collaborated across agile teams with full CI/CD pipelines.
+
+---
+
+<sub>Cybersecurity Intern · AICTE NEAT (2022) &nbsp;·&nbsp; AWS Cloud Intern · AICTE NEAT (2021)</sub>
+
+---
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<sub>🗣️ Tamil (Native) · English (Professional Working Proficiency) &nbsp;·&nbsp; 📍 Chennai, India</sub>
 <br/>
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+<sub>Crafted with ❤️ by Ragulraj Dhamodharan · © 2026</sub>
 
 </div>
 
----
-
-## 🌐 Connect with me
-
-<div align="center">
-
-<a href="https://ragulrajportfolio.web.app">
-  <img src="https://img.shields.io/badge/Portfolio-0071E3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/ragulraj-d/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/ragulraj-d">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="mailto:ragulrajdhamodharan@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-</div>
-
-<div align="center">
-
-<sub>📍 Chennai, India · 🗣️ Tamil (Native) · English (Professional Working Proficiency)</sub>
-
-</div>
-
-<!-- macOS-style light footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5AC8FA,50:2997FF,100:0071E3&height=120&section=footer" />
+<!-- Footer matching the new dark shark header -->
+<img width="100%" src="./footer.svg" alt="" />

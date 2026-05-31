@@ -1,0 +1,28 @@
+<svg width="1200" height="80" viewBox="0 0 1200 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgF" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="60%" stop-color="#161B27"/>
+      <stop offset="100%" stop-color="#1C2333"/>
+    </linearGradient>
+    <linearGradient id="topLineF" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF6B35" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#FF6B35"/>
+      <stop offset="70%" stop-color="#FF8C42"/>
+      <stop offset="100%" stop-color="#FF6B35" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="dotsF" x="0" y="0" width="30" height="30" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.5" fill="#FFFFFF" fill-opacity="0.04"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="80" fill="url(#bgF)"/>
+  <rect width="1200" height="80" fill="url(#dotsF)"/>
+  <rect x="0" y="0" width="4" height="80" fill="#FF6B35" opacity="0.9"/>
+  <rect x="1196" y="0" width="4" height="80" fill="#FF6B35" opacity="0.3"/>
+  <rect x="0" y="0" width="1200" height="1" fill="url(#topLineF)"/>
+  <text x="600" y="46" text-anchor="middle"
+    font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
+    font-size="13" fill="#8B949E" letter-spacing="1px">
+    Crafted with ❤️ by Ragulraj Dhamodharan · © 2026 · Chennai, India
+  </text>
+</svg>

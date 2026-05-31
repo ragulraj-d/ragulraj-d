@@ -1,0 +1,64 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="60%" stop-color="#161B27"/>
+      <stop offset="100%" stop-color="#1C2333"/>
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF6B35"/>
+      <stop offset="50%" stop-color="#FF8C42"/>
+      <stop offset="100%" stop-color="#FF6B35" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="topLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF6B35" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#FF6B35"/>
+      <stop offset="70%" stop-color="#FF8C42"/>
+      <stop offset="100%" stop-color="#FF6B35" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="dots" x="0" y="0" width="30" height="30" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.5" fill="#FFFFFF" fill-opacity="0.04"/>
+    </pattern>
+    <style>
+      .name { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 700; font-size: 54px; fill: #FFFFFF; letter-spacing: -1px; }
+      .tagline { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 400; font-size: 18px; fill: #FF6B35; letter-spacing: 0.3px; }
+      .roles { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 400; font-size: 14px; fill: #8B949E; letter-spacing: 1.2px; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="220" fill="url(#bgGrad)"/>
+
+  <!-- Dot grid overlay -->
+  <rect width="1200" height="220" fill="url(#dots)"/>
+
+  <!-- Left decorative accent block -->
+  <rect x="0" y="0" width="4" height="220" fill="#FF6B35" opacity="0.9"/>
+
+  <!-- Subtle diagonal geometric accent (right side) -->
+  <polygon points="900,0 1200,0 1200,220 980,220" fill="#FFFFFF" fill-opacity="0.015"/>
+
+  <!-- Right vertical faint bar -->
+  <rect x="1196" y="0" width="4" height="220" fill="#FF6B35" opacity="0.3"/>
+
+  <!-- Top thin accent line -->
+  <rect x="0" y="0" width="1200" height="1" fill="url(#topLine)"/>
+
+  <!-- Content centered -->
+  <!-- Roles line -->
+  <text x="600" y="70" text-anchor="middle" class="roles">TECHNICAL INSTRUCTOR  ·  FREELANCE DEVELOPER  ·  CYBERSECURITY EDUCATOR  ·  AI AUTOMATION BUILDER</text>
+
+  <!-- Name -->
+  <text x="600" y="138" text-anchor="middle" class="name">Ragulraj Dhamodharan</text>
+
+  <!-- Tagline -->
+  <text x="600" y="175" text-anchor="middle" class="tagline">I teach what I build, and I build what I teach.</text>
+
+  <!-- Bottom accent line -->
+  <rect x="0" y="216" width="1200" height="4" fill="url(#accentLine)"/>
+
+  <!-- Small decorative dots bottom-left -->
+  <circle cx="24" cy="200" r="3" fill="#FF6B35" opacity="0.6"/>
+  <circle cx="36" cy="200" r="3" fill="#FF6B35" opacity="0.3"/>
+  <circle cx="48" cy="200" r="3" fill="#FF6B35" opacity="0.15"/>
+</svg>
